@@ -29,7 +29,7 @@ Programa de escritorio hecho en C# Windows Forms para registrar alquileres de ve
 - Totales en `lblSubtotal`, `lblDescuento`, `lblDomicilio`, `lblItbis` y `lblTotal` en formato `RD$ 0.00`[cite: 10, 11].
 
 ## 6. Capturas de pantalla
-![Captura 1](Foto1.png)
-![Captura 2](Foto2.png)
-![Captura 3](Foto3.png)
-![Captura 4](Foto4.png)
+![Foto 1](Foto1.png)
+![Foto 2](Foto2.png)
+![Foto 3](Foto3.png)
+![Foto 4](Foto4.png)
